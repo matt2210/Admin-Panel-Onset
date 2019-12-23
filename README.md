@@ -24,3 +24,8 @@ AdminLTE.io For the template
 
 ## License
 [GNU General Public License v3.0](https://github.com/matt2210/Admin-Panel-Onset/blob/master/LICENSE)
+
+This Web Panel is made for OnSet RP FR
+
+Made For Aiekillu / Shelby / frederic2ec
+
