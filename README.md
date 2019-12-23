@@ -11,9 +11,13 @@ Database information (login, password, ip ...)
 ```bash
 Unzip ZIP into web root path !
 ```
+Set Database information in 
+```bash
+inc/db.php
+```
 Default Login Information is 
-
-
+Login : Admin
+Password : Admin 
 
 ## Contribut
 AdminLTE.io For the template 
