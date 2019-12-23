@@ -22,6 +22,13 @@ Password : Admin
 ## Contribut
 AdminLTE.io For the template 
 
+## Screen 
+
+login page : https://i.imgur.com/LUqzOqz.png
+WIP Home Page : https://i.imgur.com/MBkslLd.png
+Players List : https://i.imgur.com/8jv8KRB.png
+Player management : https://i.imgur.com/xr4HAGG.png
+
 ## License
 [GNU General Public License v3.0](https://github.com/matt2210/Admin-Panel-Onset/blob/master/LICENSE)
 
