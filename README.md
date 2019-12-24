@@ -1,38 +1,41 @@
-# OnSet Web Admin Roleplay
+# Onset Web Admin Roleplay
 
-OnSet Web Admin panel is made for [OnSet Roleplay FrameWork](https://github.com/frederic2ec/onsetrp)
+Onset Web Admin panel is made for [Onset Roleplay Framework](https://github.com/frederic2ec/onsetrp)
 
-## Require
-A OnSet Roleplay server 
-PHP - Web Server 
-Database information (login, password, ip ...) 
+## Required
+- An Onset Roleplay server  
+- PHP - Web Server  
+- Database informations (login, password, ip ...)  
 ## Installation
 /!\ IMPORT SQL FILE IN YOUR ONSET DATATABLE /!\
 ```bash
 Unzip ZIP into web root path !
 ```
-Set Database information in 
+Set database informations in 
 ```bash
 inc/db.php
 ```
-Default Login Information is 
-Login : Admin
-Password : Admin 
+Default login informations:  
+Login: `Admin`  
+Password: `Admin`   
 
-## Contribut
-AdminLTE.io For the template 
+## Contribute
+AdminLTE.io for the template 
 
-## Screen 
+## Screenshots 
 
-login page : https://i.imgur.com/LUqzOqz.png
-WIP Home Page : https://i.imgur.com/MBkslLd.png
-Players List : https://i.imgur.com/8jv8KRB.png
-Player management : https://i.imgur.com/xr4HAGG.png
+Login page: ![Login page](https://i.imgur.com/LUqzOqz.png)
+
+WIP Home page: ![WIP Home page](https://i.imgur.com/MBkslLd.png)
+
+Players list: ![Players list](https://i.imgur.com/8jv8KRB.png)
+
+Player management: ![Player management](https://i.imgur.com/xr4HAGG.png)
 
 ## License
 [GNU General Public License v3.0](https://github.com/matt2210/Admin-Panel-Onset/blob/master/LICENSE)
 
-This Web Panel is made for OnSet RP FR
+This Web Panel is made for Onset RP FR
 
 Made For Aiekillu / Shelby / frederic2ec
 
