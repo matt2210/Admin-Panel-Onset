@@ -20,6 +20,7 @@ Login: `Admin`
 Password: `Admin`   
 
 ## Contribute
+Thanks [Alexandregv](https://github.com/alexandregv) for ReadME :) 
 AdminLTE.io for the template 
 
 ## Screenshots 
